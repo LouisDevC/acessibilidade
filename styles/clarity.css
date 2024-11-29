@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  margin: 0 auto;
+}
+
+.grid-item {
+  padding: 0 1.25rem 1rem;
+  margin: 1rem;
+  text-align: left;
+  overflow: hidden;
+}
+
+h3 {
+  margin-bottom: 0;
+  font-size: 2rem;
+  text-align: center;
+}
+
+p {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.blue0 {
+  background: hsl(217, 89%, 0%);
+  color: #ffffff;
+}
+
+.blue20 {
+  background: hsl(217, 89%, 20%);
+  color: #ffffff;
+}
+
+.blue40 {
+  background: hsl(217, 89%, 40%);
+  color: #ffffff;
+}
+
+.blue60 {
+  background: hsl(217, 89%, 60%);
+}
+
+.blue80 {
+  background: hsl(217, 89%, 80%);
+}
+
+.blue100 {
+  background: hsl(217, 89%, 100%);
+}
