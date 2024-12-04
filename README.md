@@ -272,3 +272,5 @@ Este formulário usa aria-required para indicar que o campo é obrigatório, ari
 
 #### @prefers-reduced-motion
 >Assim como as consultas de mídia com foco em cores no módulo de cores, a consulta de mídia @prefers-reduced-motion verifica as configurações do SO do usuário relacionadas à animação.
+
+***todo o conteúdo deste estudo pertence á [web dev](https://web.dev/learn/accessibility)***
