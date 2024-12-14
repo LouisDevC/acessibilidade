@@ -39,5 +39,4 @@ De acordo com o site [developers.google](https://developers.google.com/search/do
  - ### Reduzir o conteúdo duplicado:
  > Alguns sites mostram o mesmo conteúdo em 2 urls diferentes, mas os mecanismos de pesquisa escolhem um url ([O canônico](./canonico.md)) para mostrar aos usuários por conteúdo.
 
- - ### Deixar o site mais prático e interessante:
- [continuar...](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=pt-br)
+todo  o coteúdo desse estudo pertence à [central da pesquisa google.](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=pt-br)
